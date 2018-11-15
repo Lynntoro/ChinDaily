@@ -1,0 +1,28 @@
+9:30 PM 10/1/2018
+30分NHKのニュース；
+50の日本語単語；
+一時間のJava／python関連の知識メソッド学習と練習、スキルと技術の向上；
+10:49 PM 10/2/2018
+マイクロソフトSQLサーバーインストール学習マスターの基本的なSQLコマンド。
+12:40 PM 10/17/2018
+ランニング??、プッシュアップ30回、スクワット40回。
+
+ステップ1：プロジェクトフォルダを開き、 "Git Bash Here"をクリックしてgitコマンドラインを開きます。
+手順2：githubの新しいリポジトリのドキュメントプロンプトに従ってプロジェクトを送信します。 
+
+1.コマンドラインで、 "git init"と入力してTestフォルダをgit管理に追加します。
+2. "git add ."と入力してください（ "."を見逃してはいけません）、Testフォルダの内容全体をgitに追加してください。 
+3. "git commit -m"最初のコミット ""（ "git commit -m"情報の送信 ""）
+4.「git remote add origin https://gitlab.com/lynntoro/fpo_pj.git」と入力してgutリポジトリに接続します。
+5. "git push -u origin master"と入力してプロジェクトをGithubにアップロードします。 ここでGitアカウントのパスワードを入力し、必要に応じて入力してください。
+
+Common git command:
+pwd
+ls
+git status
+git add .
+git commit -m "new project"
+git push
+
+
+
